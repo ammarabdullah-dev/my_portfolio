@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141827"/><stop offset="1" stop-color="#23203c"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="80" r="260" fill="#7dd3fc" opacity=".08"/>
+  <circle cx="110" cy="590" r="280" fill="#a78bfa" opacity=".08"/>
+  <text x="90" y="245" fill="#f8fafc" font-family="Arial, sans-serif" font-size="76" font-weight="700">Ammar Abdullah</text>
+  <text x="90" y="330" fill="url(#brand)" font-family="Arial, sans-serif" font-size="46" font-weight="700">Cloud &amp; DevOps Portfolio</text>
+  <text x="90" y="405" fill="#a9b2c3" font-family="Arial, sans-serif" font-size="28">AWS · Linux · Python · Cloud Security · Projects</text>
+</svg>
